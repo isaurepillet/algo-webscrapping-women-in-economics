@@ -2,7 +2,7 @@
 
 **Research assistant project supervised by Emmanuelle Taugourdeau**
 
-This repository contains code developed for a research project on **women's representation and career patterns in academic economics and finance**, with a focus on France in comparison with other European countries.
+This repository contains code developed for a research project on **women's representation and career patterns in academic economics**, with a comparative perspective across France and other European countries.
 
 ## Project scope
 
@@ -20,6 +20,10 @@ The Python notebook includes work on:
 - producing descriptive statistics for the research project.
 
 Sources used in the broader project include **RePEc/IDEAS** and academic web data.
+
+## Main notebook
+
+- **`01_research_data_collection.ipynb`** — data collection, cleaning, harmonisation and researcher-level matching workflow.
 
 ## Tools
 
