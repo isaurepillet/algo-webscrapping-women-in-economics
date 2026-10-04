@@ -19,7 +19,7 @@ The Python notebook includes work on:
 - constructing variables used to study gender representation and academic careers;
 - producing descriptive statistics for the research project.
 
-Sources used in the broader project include **RePEc/IDEAS** and academic web data.
+Sources used in the broader project include **IDEAS/RePEc**, **Google Scholar** and academic institutional web pages.
 
 ## Main notebook
 
